@@ -1,5 +1,14 @@
 # Simple Net tools written in Python
 
+```bash
+virtualenv venv
+source venv/bin/activate
+```
+For email sniffer
+```bash
+pip install kamene
+```
+
 ### To find a local host to listen
 ```bash
 ifconfig 
