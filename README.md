@@ -1,4 +1,4 @@
-# Simple TCP proxy written in Python
+# Simple Net tools written in Python
 
 ### To find a local host to listen
 ```bash
