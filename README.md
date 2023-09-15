@@ -1,5 +1,11 @@
 # Simple Net tools written in Python
 
+### Web app content bruter
+```bash
+source torsocks on
+python3 content_bruter.py
+```
+
 ```bash
 virtualenv venv
 source venv/bin/activate
