@@ -4,7 +4,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-threads = 5
+threads = 50
 target_url = "http://testphp.vulnweb.com"
 wordlist_file = "all.txt"  # from SVNDigger
 resume = None
